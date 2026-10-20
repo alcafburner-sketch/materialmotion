@@ -13,7 +13,7 @@
 #import <QuartzCore/QuartzCore.h>
 #import "MaterialMotion.h"
 
-#define PREFS_DOMAIN @"com.example.materialmotion"
+#define PREFS_DOMAIN "com.example.materialmotion"
 
 static BOOL   gEnabled = YES;
 static BOOL   gOverlay = NO;
