@@ -1,0 +1,9 @@
+Package: com.example.materialmotion
+Name: MaterialMotion
+Version: 0.1.0
+Architecture: iphoneos-arm
+Description: Pixel / Material 3 Expressive spring motion for app launches
+Maintainer: you
+Author: you
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 16.0)

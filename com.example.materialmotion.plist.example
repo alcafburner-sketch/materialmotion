@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0"><dict>
+  <key>enabled</key><true/>
+  <key>overlay</key><false/>   <!-- experimental container-transform overlay -->
+  <key>scheme</key><integer>0</integer> <!-- 0 = Standard (0.9 damping), 1 = Expressive (0.6-0.8) -->
+  <key>speed</key><real>1.0</real>      <!-- 0.5 - 2.0 -->
+</dict></plist>
